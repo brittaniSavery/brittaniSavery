@@ -1,11 +1,10 @@
-
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://brittanisavery.com/images/dark-mode-header.png">
- <source media="(prefers-color-scheme: light)" srcset="https://brittanisavery.com/images/light-mode-header.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://brittanisavery.com/images/social/github-header-dark.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://brittanisavery.com/images/social/github-header-light.png">
  <img alt="" src="https://brittanisavery.com/images/light-mode-header.png">
 </picture>
 
-Hi, I'm Brittani 👋🏽, a creator with an insatiable curiosity and imgaination. I tend to use that curisoity and imagination to build with, to blog about, and to learn of different coding languages and software frameworks. I have multiple hobby projects in the works as well as plenty of others planned. When I'm not coding, I enjoy reading and writing, gravitating more toward poetry and science-fiction or fantasy stories.
+Hi, I'm Brittani! 👋🏽 With an overactive brain and vibrant imagination, I’m equal parts coder, writer, gamer, and nerd. I tend to use a large chunk of that mental activity to build with, to blog about, and to learn of different coding languages and software frameworks. I have multiple hobby projects in the works as well as plenty of others planned. When I'm not coding, I enjoy reading and writing, gravitating more toward poetry and science-fiction or fantasy stories.
 
 ## Tech Stack
 * Favorites:  
