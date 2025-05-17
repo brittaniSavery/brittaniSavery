@@ -9,7 +9,6 @@ Hi, I'm Brittani! 👋🏽 With an overactive brain and vibrant imagination, I�
 ## Tech Stack
 * Favorites:  
 ![Astro](https://img.shields.io/badge/Astro-%23BC52EE?logo=astro&logoColor=white)
-![Bulma CSS](https://img.shields.io/badge/Bulma_CSS-%2300D1B2?logo=bulma&logoColor=white)
 ![Jamstack](https://img.shields.io/badge/Jamstack-%23F0047F?logo=jamstack&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)
@@ -25,7 +24,8 @@ Hi, I'm Brittani! 👋🏽 With an overactive brain and vibrant imagination, I�
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-%23569A31?logo=amazons3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-%23FF9900?logo=awslambda&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?logo=bootstrap&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-%23512BD4?logo=csharp&logoColor=white)
+![Bulma CSS](https://img.shields.io/badge/Bulma_CSS-%2300D1B2?logo=bulma&logoColor=white)
+![C Sharp.NET](https://img.shields.io/badge/C%23-%23512BD4?logo=dotnet&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
@@ -48,6 +48,7 @@ Hi, I'm Brittani! 👋🏽 With an overactive brain and vibrant imagination, I�
 ![Strapi](https://img.shields.io/badge/Strapi-%234945FF?logo=strapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-%23DB7093?logo=styledcomponents&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2300D1B2?logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF?logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-%236E9F18?logo=vitest&logoColor=white)
@@ -55,8 +56,6 @@ Hi, I'm Brittani! 👋🏽 With an overactive brain and vibrant imagination, I�
 * Learning:  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB?logo=python&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2300D1B2?logo=tailwindcss&logoColor=white)
-
 
 ## Fun Facts
 * I'm a dog mom to an old English bulldogge named Jael. Here's a summary of [our first year](https://www.instagram.com/reel/Cm4pQE3Kd7V/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) together.
